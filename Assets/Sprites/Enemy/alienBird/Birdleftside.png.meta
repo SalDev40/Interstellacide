@@ -1,0 +1,514 @@
+fileFormatVersion: 2
+guid: 181078e2fa2dbbe498ef67ab0e5f088a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8202272928133372324
+    second: left_forward_bird_01
+  - first:
+      213: -8613057806629614436
+    second: left_forward_bird_02
+  - first:
+      213: 7983083777608007192
+    second: left_forward_bird_03
+  - first:
+      213: 3002750315277998400
+    second: left_forward_bird_04
+  - first:
+      213: 775502235858715161
+    second: left_forward_bird_05
+  - first:
+      213: 7711255305446889876
+    second: left_forward_bird_06
+  - first:
+      213: 134342558208618263
+    second: left_death_bird_01
+  - first:
+      213: 1459699942158376972
+    second: left_death_bird_02
+  - first:
+      213: -4698363327611500152
+    second: left_death_bird_03
+  - first:
+      213: -3046822071446733360
+    second: left_death_bird_04
+  - first:
+      213: 805434736273669117
+    second: left_death_bird_05
+  - first:
+      213: -4053286270587766889
+    second: Birdleftside_11
+  - first:
+      213: 2380518718767542621
+    second: left_upside_bird_01
+  - first:
+      213: 665569149493168849
+    second: left_upside_bird_02
+  - first:
+      213: -3481438542902608063
+    second: Birdleftside_14
+  - first:
+      213: -8474415724307492277
+    second: left_upside_bird_03
+  - first:
+      213: -950035762371854788
+    second: left_upside_bird_04
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: left_forward_bird_01
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 882
+        width: 160
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56aec7ba3cab2e80800000000000000
+      internalID: -8202272928133372324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_forward_bird_02
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 879
+        width: 161
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ccfed0f85487880800000000000000
+      internalID: -8613057806629614436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_forward_bird_03
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 888
+        width: 161
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e3288466c99ce60800000000000000
+      internalID: 7983083777608007192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_forward_bird_04
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 894
+        width: 161
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0495653a089eba920800000000000000
+      internalID: 3002750315277998400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_forward_bird_05
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 904
+        width: 156
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91241eabc2323ca00800000000000000
+      internalID: 775502235858715161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_forward_bird_06
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 901
+        width: 151
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499128528d1e30b60800000000000000
+      internalID: 7711255305446889876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_death_bird_01
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 648
+        width: 152
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fed3c48d74dd100800000000000000
+      internalID: 134342558208618263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_death_bird_02
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 644
+        width: 168
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0022031d55e14410800000000000000
+      internalID: 1459699942158376972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_death_bird_03
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 644
+        width: 177
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8898eff427f0cceb0800000000000000
+      internalID: -4698363327611500152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_death_bird_04
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 644
+        width: 183
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddf891087387b5d0800000000000000
+      internalID: -3046822071446733360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_death_bird_05
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 644
+        width: 249
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb3a5110aa7d2b00800000000000000
+      internalID: 805434736273669117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birdleftside_11
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 655
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797f5a4bc95dfb7c0800000000000000
+      internalID: -4053286270587766889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_upside_bird_01
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 441
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51be45892d490120800000000000000
+      internalID: 2380518718767542621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_upside_bird_02
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 441
+        width: 115
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dacff87d939c3900800000000000000
+      internalID: 665569149493168849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birdleftside_14
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 589
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fbfe637127fafc0800000000000000
+      internalID: -3481438542902608063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_upside_bird_03
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 441
+        width: 96
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42daa15cc3d46a80800000000000000
+      internalID: -8474415724307492277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_upside_bird_04
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 441
+        width: 85
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e78e3f18bc0d2f0800000000000000
+      internalID: -950035762371854788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b5d5b4ce2d9078c469c9735c9b2308ac
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

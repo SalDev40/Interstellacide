@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - CanBePickedUp
+  - Player_Homing
+  - Damage
+  - DamageUfoAlien
+  - PlayerLevelOneBullet
+  - EnemyShot
+  - PlayerShot
+  - weapon2
+  - weapon3
+  - BossEnemy
+  - BossBullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Blocking
+  - Consumables
+  - Enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Objects
+    uniqueID: 1149305399
+    locked: 0
+  - name: Character
+    uniqueID: 3110736239
+    locked: 0
+  - name: HealthMeter
+    uniqueID: 1870503577
+    locked: 0
+  - name: HealthMask
+    uniqueID: 2385722405
+    locked: 0

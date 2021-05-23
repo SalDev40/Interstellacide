@@ -1,0 +1,490 @@
+fileFormatVersion: 2
+guid: 53859439c02d93f48937dd71e1aeedb0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3904101523456952739
+    second: batterySpin_0
+  - first:
+      213: -3613888831756328920
+    second: batterySpin_1
+  - first:
+      213: 1264503749592962343
+    second: batterySpin_2
+  - first:
+      213: 2444025712011762519
+    second: batterySpin_3
+  - first:
+      213: -3471252774820687412
+    second: batterySpin_4
+  - first:
+      213: -5124443289476654434
+    second: batterySpin_5
+  - first:
+      213: 8139836763221047608
+    second: batterySpin_6
+  - first:
+      213: -8173140173183548455
+    second: batterySpin_7
+  - first:
+      213: 2739472512450538897
+    second: batterySpin_8
+  - first:
+      213: -7160253143533218659
+    second: batterySpin_9
+  - first:
+      213: 3692722280340478529
+    second: batterySpin_10
+  - first:
+      213: 4440614986235261701
+    second: batterySpin_11
+  - first:
+      213: -195151285894900767
+    second: batterySpin_12
+  - first:
+      213: 6399275964094255500
+    second: batterySpin_13
+  - first:
+      213: -1783604457186372675
+    second: batterySpin_14
+  - first:
+      213: 548452743243190814
+    second: batterySpin_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: batterySpin_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 817
+        width: 318
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a986b896a72e2630800000000000000
+      internalID: 3904101523456952739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterySpin_1
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 799
+        width: 322
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820a9653143e8ddc0800000000000000
+      internalID: -3613888831756328920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterySpin_2
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 778
+        width: 318
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72553abe57b6c8110800000000000000
+      internalID: 1264503749592962343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterySpin_3
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 758
+        width: 304
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bd162af6ceae120800000000000000
+      internalID: 2444025712011762519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterySpin_4
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 742
+        width: 288
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc159372ef1a3dfc0800000000000000
+      internalID: -3471252774820687412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterySpin_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 394
+        width: 262
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a1c1b8af152e8b0800000000000000
+      internalID: -5124443289476654434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterySpin_6
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 384
+        width: 209
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839b471d86286f070800000000000000
+      internalID: 8139836763221047608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterySpin_7
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 375
+        width: 120
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d38bedc05c239e80800000000000000
+      internalID: -8173140173183548455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterySpin_8
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 380
+        width: 192
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19daf885cbf840620800000000000000
+      internalID: 2739472512450538897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterySpin_9
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 363
+        width: 262
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9414ddd3bba1ac90800000000000000
+      internalID: -7160253143533218659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterySpin_10
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 375
+        width: 288
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a5ddd595f2f3330800000000000000
+      internalID: 3692722280340478529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterySpin_11
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 37
+        width: 304
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50334d67dcb30ad30800000000000000
+      internalID: 4440614986235261701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterySpin_12
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 66
+        width: 318
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e316ce70feaa4df0800000000000000
+      internalID: -195151285894900767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterySpin_13
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 66
+        width: 322
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c819883a59bcec850800000000000000
+      internalID: 6399275964094255500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterySpin_14
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 65
+        width: 318
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db35a95323d5f37e0800000000000000
+      internalID: -1783604457186372675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterySpin_15
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 46
+        width: 322
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1259193dde7c9700800000000000000
+      internalID: 548452743243190814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e582fbea04138784fafd12996ebc3c47
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

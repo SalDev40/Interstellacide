@@ -1,0 +1,664 @@
+fileFormatVersion: 2
+guid: f8b28d67cc4efaa4aa8a55bf2d38fdaf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2402686925329793608
+    second: enes_death_0
+  - first:
+      213: 2105207592010624963
+    second: enes_death_1
+  - first:
+      213: 3449221860324221792
+    second: enes_death_12
+  - first:
+      213: -1678453699272945607
+    second: enes_death_13
+  - first:
+      213: 1483132442065266821
+    second: enes_death_00
+  - first:
+      213: 1210184848917801159
+    second: enes_death_01
+  - first:
+      213: -4776233454600902492
+    second: enes_death_02
+  - first:
+      213: -4154554750662283027
+    second: enes_death_03
+  - first:
+      213: -4762794738782177331
+    second: enes_death_04
+  - first:
+      213: 8913416022734312995
+    second: enes_death_05
+  - first:
+      213: 6718062107290800778
+    second: enes_death_06
+  - first:
+      213: 3753681056534802275
+    second: enes_death_07
+  - first:
+      213: 6644917754173063543
+    second: enes_death_08
+  - first:
+      213: -9105594644872833807
+    second: enes_death_09
+  - first:
+      213: 5610702038621303397
+    second: enes_death_10
+  - first:
+      213: -924355431208710028
+    second: enes_death_12
+  - first:
+      213: 4246904075900354989
+    second: enes_death_13
+  - first:
+      213: -1712401302182723153
+    second: enes_death_14
+  - first:
+      213: -721907505403967753
+    second: enes_death_17
+  - first:
+      213: 6967947487271092344
+    second: enes_death_18
+  - first:
+      213: -1275701042895023356
+    second: enes_death_19
+  - first:
+      213: 8416461443943731411
+    second: enes_death_20
+  - first:
+      213: 8271905548860306615
+    second: enes_death_22
+  - first:
+      213: 1575432974650750251
+    second: enes_death_23
+  - first:
+      213: 6834152162215084197
+    second: enes_death_24
+  - first:
+      213: 3519011135999812371
+    second: enes_death_25
+  - first:
+      213: -8086541131499058405
+    second: enes_death_26
+  - first:
+      213: -1757468155633523160
+    second: enes_death_11
+  - first:
+      213: -433505960908654775
+    second: enes_death_28
+  - first:
+      213: 9046824145348633451
+    second: enes_death_29
+  - first:
+      213: 5800577227288551165
+    second: enes_death_30
+  - first:
+      213: 5728903076186287597
+    second: enes_death_31
+  - first:
+      213: 2206488009875146021
+    second: enes_death_32
+  - first:
+      213: 9037562394219383547
+    second: enes_death_33
+  - first:
+      213: -6244593685261230680
+    second: enes_death_34
+  - first:
+      213: -6122265011749116457
+    second: enes_death_35
+  - first:
+      213: 377157637887391407
+    second: enes_death_36
+  - first:
+      213: 3074743319406939286
+    second: enes_death_37
+  - first:
+      213: -227463924573176025
+    second: enes_death_38
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enes_death_15
+      rect:
+        serializedVersion: 2
+        x: 6497
+        y: 186
+        width: 800
+        height: 636
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0632328d1091edf20800000000000000
+      internalID: 3449221860324221792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enes_death_16
+      rect:
+        serializedVersion: 2
+        x: 7405
+        y: 67
+        width: 1078
+        height: 728
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93055ead04fe4b8e0800000000000000
+      internalID: -1678453699272945607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enes_death_00
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 65
+        width: 304
+        height: 698
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588682c1915259410800000000000000
+      internalID: 1483132442065266821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enes_death_01
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 77
+        width: 305
+        height: 676
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c82e4055b07bc010800000000000000
+      internalID: 1210184848917801159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enes_death_02
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 62
+        width: 285
+        height: 691
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a82d268af867bdb0800000000000000
+      internalID: -4776233454600902492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enes_death_03
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 71
+        width: 314
+        height: 682
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0fcde477e0856c0800000000000000
+      internalID: -4154554750662283027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enes_death_04
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 81
+        width: 294
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7f9c06b6727edb0800000000000000
+      internalID: -4762794738782177331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enes_death_05
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 74
+        width: 308
+        height: 679
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3269a5ab5a0d2bb70800000000000000
+      internalID: 8913416022734312995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enes_death_06
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 93
+        width: 291
+        height: 660
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82941c84e95b3d50800000000000000
+      internalID: 6718062107290800778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enes_death_07
+      rect:
+        serializedVersion: 2
+        x: 2678
+        y: 209
+        width: 326
+        height: 538
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36faed67801c71430800000000000000
+      internalID: 3753681056534802275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enes_death_08
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 209
+        width: 400
+        height: 538
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7710c2bbd7d773c50800000000000000
+      internalID: 6644917754173063543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enes_death_09
+      rect:
+        serializedVersion: 2
+        x: 3478
+        y: 209
+        width: 316
+        height: 538
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4d7abf9ed62a180800000000000000
+      internalID: -9105594644872833807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enes_death_10
+      rect:
+        serializedVersion: 2
+        x: 3839
+        y: 186
+        width: 379
+        height: 580
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562359007c73ddd40800000000000000
+      internalID: 5610702038621303397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enes_death_12
+      rect:
+        serializedVersion: 2
+        x: 4729
+        y: 186
+        width: 521
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4701a9cf1a70c23f0800000000000000
+      internalID: -924355431208710028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enes_death_13
+      rect:
+        serializedVersion: 2
+        x: 5299
+        y: 186
+        width: 525
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1033781c800fa30800000000000000
+      internalID: 4246904075900354989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enes_death_14
+      rect:
+        serializedVersion: 2
+        x: 5895
+        y: 186
+        width: 521
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa18b7e96145c38e0800000000000000
+      internalID: -1712401302182723153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enes_death_17
+      rect:
+        serializedVersion: 2
+        x: 8538
+        y: 244
+        width: 799
+        height: 541
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f645bbd2f44bf5f0800000000000000
+      internalID: -721907505403967753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enes_death_18
+      rect:
+        serializedVersion: 2
+        x: 9435
+        y: 316
+        width: 474
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8708e58625f13b060800000000000000
+      internalID: 6967947487271092344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enes_death_19
+      rect:
+        serializedVersion: 2
+        x: 10090
+        y: 351
+        width: 249
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40395a219accb4ee0800000000000000
+      internalID: -1275701042895023356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enes_death_20
+      rect:
+        serializedVersion: 2
+        x: 10562
+        y: 383
+        width: 140
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0990847174dc470800000000000000
+      internalID: 8416461443943731411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enes_death_11
+      rect:
+        serializedVersion: 2
+        x: 4228
+        y: 181
+        width: 490
+        height: 577
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826276f16083c97e0800000000000000
+      internalID: -1757468155633523160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3d0e4b82b06f2344bb26784d74083fac
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

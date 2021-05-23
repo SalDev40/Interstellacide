@@ -1,0 +1,658 @@
+fileFormatVersion: 2
+guid: e5678277e97613e42a6265abdf428df4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4079880717232662685
+    second: starDustSpin_0
+  - first:
+      213: -3370066895832755307
+    second: starDustSpin_1
+  - first:
+      213: 2582726937069554927
+    second: starDustSpin_2
+  - first:
+      213: 9078351606981574254
+    second: starDustSpin_3
+  - first:
+      213: 5513061471105668721
+    second: starDustSpin_4
+  - first:
+      213: -2134530701068386042
+    second: starDustSpin_5
+  - first:
+      213: 4147076241119566879
+    second: starDustSpin_6
+  - first:
+      213: -8357599427375113569
+    second: starDustSpin_7
+  - first:
+      213: 989309516517147941
+    second: starDustSpin_8
+  - first:
+      213: -1446713448992745327
+    second: starDustSpin_9
+  - first:
+      213: 7343813063137195434
+    second: starDustSpin_10
+  - first:
+      213: -5032340011749119756
+    second: starDustSpin_11
+  - first:
+      213: -4481076926914556888
+    second: starDustSpin_12
+  - first:
+      213: 4060306491665483260
+    second: starDustSpin_13
+  - first:
+      213: -6910102545398149054
+    second: starDustSpin_14
+  - first:
+      213: -6296581542588869255
+    second: starDustSpin_15
+  - first:
+      213: -7151291096231651642
+    second: starDustSpin_16
+  - first:
+      213: -1266455738113449916
+    second: starDustSpin_17
+  - first:
+      213: -8306200734335271520
+    second: starDustSpin_18
+  - first:
+      213: -7395515185352469110
+    second: starDustSpin_19
+  - first:
+      213: 8291844353837511156
+    second: starDustSpin_20
+  - first:
+      213: 4982426277958854472
+    second: starDustSpin_21
+  - first:
+      213: 2853366315288246582
+    second: starDustSpin_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: starDustSpin_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 891
+        width: 114
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36791639a1a5167c0800000000000000
+      internalID: -4079880717232662685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starDustSpin_1
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 889
+        width: 122
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593d59c730e1b31d0800000000000000
+      internalID: -3370066895832755307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starDustSpin_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 889
+        width: 126
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec0dd32770b7d320800000000000000
+      internalID: 2582726937069554927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starDustSpin_3
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 890
+        width: 122
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ebb38ffa8ccfd70800000000000000
+      internalID: 9078351606981574254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starDustSpin_4
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 891
+        width: 127
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1765522d234528c40800000000000000
+      internalID: 5513061471105668721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starDustSpin_5
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 893
+        width: 127
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60147a8f2af9062e0800000000000000
+      internalID: -2134530701068386042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starDustSpin_6
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 890
+        width: 123
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cd4608edf5d8930800000000000000
+      internalID: 4147076241119566879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starDustSpin_7
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 891
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a5c4ce997d30c80800000000000000
+      internalID: -8357599427375113569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starDustSpin_8
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 888
+        width: 108
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5250be083cbbabd00800000000000000
+      internalID: 989309516517147941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starDustSpin_9
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 883
+        width: 108
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198d10d78cd3cebe0800000000000000
+      internalID: -1446713448992745327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starDustSpin_10
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 684
+        width: 110
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa57a2d52177ae560800000000000000
+      internalID: 7343813063137195434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starDustSpin_11
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 687
+        width: 120
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f865bafb69892ab0800000000000000
+      internalID: -5032340011749119756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starDustSpin_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 693
+        width: 125
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c0f08d64400d1c0800000000000000
+      internalID: -4481076926914556888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starDustSpin_13
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 702
+        width: 125
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf50fe2ed3b195830800000000000000
+      internalID: 4060306491665483260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starDustSpin_14
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 704
+        width: 124
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2405504a8526a10a0800000000000000
+      internalID: -6910102545398149054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starDustSpin_15
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 702
+        width: 127
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97595be927c0e98a0800000000000000
+      internalID: -6296581542588869255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starDustSpin_16
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 701
+        width: 129
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6d2bb13a281cc90800000000000000
+      internalID: -7151291096231651642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starDustSpin_17
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 693
+        width: 126
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4402ef55735ac6ee0800000000000000
+      internalID: -1266455738113449916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starDustSpin_18
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 686
+        width: 123
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad7bd4b0727abc80800000000000000
+      internalID: -8306200734335271520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starDustSpin_19
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 685
+        width: 114
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a851f0e3f1add5990800000000000000
+      internalID: -7395515185352469110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starDustSpin_20
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 480
+        width: 106
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1305bf18c821370800000000000000
+      internalID: 8291844353837511156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starDustSpin_21
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 486
+        width: 109
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8472f414d42252540800000000000000
+      internalID: 4982426277958854472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starDustSpin_22
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 477
+        width: 114
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63932d4cb81399720800000000000000
+      internalID: 2853366315288246582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 00e490ffd5ea842458309d2e8b76f3fe
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

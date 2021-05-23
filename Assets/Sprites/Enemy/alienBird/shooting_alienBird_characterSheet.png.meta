@@ -1,0 +1,850 @@
+fileFormatVersion: 2
+guid: 202a2f4577570944f9d5c5f0bded7b7a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3899159331015672652
+    second: alienBird_westMove_1
+  - first:
+      213: -6662933419115505845
+    second: alienBird_westMove_2
+  - first:
+      213: -3570064778656333101
+    second: alienBird_westMove_3
+  - first:
+      213: 7817060951565312876
+    second: alienBird_westMove_4
+  - first:
+      213: -6467053650993927384
+    second: alienBird_westMove_5
+  - first:
+      213: 4266040547794532896
+    second: alienBird_westMove_6
+  - first:
+      213: -7523759887843986849
+    second: alienBird_shooting_1
+  - first:
+      213: -8422980962375750197
+    second: alienBird_shooting_2
+  - first:
+      213: 5027462883506021677
+    second: shooting_alienBird_characterSheet_8
+  - first:
+      213: -2291693291500397325
+    second: shooting_alienBird_characterSheet_9
+  - first:
+      213: 1456661088316061098
+    second: alienBird_shooting_3
+  - first:
+      213: 583649226837875572
+    second: shooting_alienBird_characterSheet_11
+  - first:
+      213: 5707408170139835677
+    second: shooting_alienBird_characterSheet_12
+  - first:
+      213: 5589807543095688858
+    second: shooting_alienBird_characterSheet_13
+  - first:
+      213: -2963955055926632112
+    second: shooting_alienBird_characterSheet_14
+  - first:
+      213: -4635239287416684963
+    second: alienBird_shooting_4
+  - first:
+      213: 4662450633998682162
+    second: alienBird_shooting_5
+  - first:
+      213: -4986144173142350330
+    second: alienBird_shooting_6
+  - first:
+      213: 6560949395281564121
+    second: alienBird_shooting_7
+  - first:
+      213: -6340933500837662554
+    second: shooting_alienBird_characterSheet_19
+  - first:
+      213: 1982741962959600639
+    second: alienBird_death_1
+  - first:
+      213: 1375786936356394339
+    second: alienBird_death_2
+  - first:
+      213: -5617000331509486030
+    second: alienBird_death_3
+  - first:
+      213: -6027885820158768762
+    second: alienBird_death_4
+  - first:
+      213: -939924213115098365
+    second: alienBird_death_5
+  - first:
+      213: -8235773404464755186
+    second: alienBird_death_6
+  - first:
+      213: -7780427299788731149
+    second: alienBird_death_7
+  - first:
+      213: 9177913754267495027
+    second: alienBird_northMove_1
+  - first:
+      213: -1703709663382802739
+    second: alienBird_northMove_2
+  - first:
+      213: -4922642525909178896
+    second: alienBird_northMove_3
+  - first:
+      213: 1947214561677050035
+    second: alienBird_northMove_4
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: alienBird_westMove_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 882
+        width: 160
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc39204f3763e9c0800000000000000
+      internalID: -3899159331015672652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alienBird_westMove_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 879
+        width: 161
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b479a876b518883a0800000000000000
+      internalID: -6662933419115505845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alienBird_westMove_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 888
+        width: 161
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d24e03bff4947ec0800000000000000
+      internalID: -3570064778656333101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alienBird_westMove_4
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 894
+        width: 161
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63a0a5d487cb7c60800000000000000
+      internalID: 7817060951565312876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alienBird_westMove_5
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 904
+        width: 156
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b2d15e7f86046a0800000000000000
+      internalID: -6467053650993927384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alienBird_westMove_6
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 901
+        width: 151
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ab4b89645043b30800000000000000
+      internalID: 4266040547794532896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alienBird_shooting_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 656
+        width: 162
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52f9bd9e3c369790800000000000000
+      internalID: -7523759887843986849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alienBird_shooting_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 656
+        width: 161
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd27bb017f8b1b80800000000000000
+      internalID: -8422980962375750197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_alienBird_characterSheet_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 770
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2566dc1bd225c540800000000000000
+      internalID: 5027462883506021677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_alienBird_characterSheet_9
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 771
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc19f1e7154230e0800000000000000
+      internalID: -2291693291500397325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alienBird_shooting_3
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 656
+        width: 203
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa57637ca89173410800000000000000
+      internalID: 1456661088316061098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_alienBird_characterSheet_11
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 765
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b5a1721e9891800800000000000000
+      internalID: 583649226837875572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_alienBird_characterSheet_12
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 765
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dd859dd79c43f40800000000000000
+      internalID: 5707408170139835677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_alienBird_characterSheet_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 765
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e7409285cf29d40800000000000000
+      internalID: 5589807543095688858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_alienBird_characterSheet_14
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 766
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0512541949aedd6d0800000000000000
+      internalID: -2963955055926632112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alienBird_shooting_4
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 651
+        width: 228
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ef7983d625cafb0800000000000000
+      internalID: -4635239287416684963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alienBird_shooting_5
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 656
+        width: 166
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238494e162a54b040800000000000000
+      internalID: 4662450633998682162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alienBird_shooting_6
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 656
+        width: 162
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60667f0da48adcab0800000000000000
+      internalID: -4986144173142350330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alienBird_shooting_7
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 651
+        width: 165
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1521fa6bc2d0b50800000000000000
+      internalID: 6560949395281564121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_alienBird_characterSheet_19
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 765
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a07232a39a7008a0800000000000000
+      internalID: -6340933500837662554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alienBird_death_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 449
+        width: 152
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbb77f6f4d148b10800000000000000
+      internalID: 1982741962959600639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alienBird_death_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 443
+        width: 158
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365552cede6c71310800000000000000
+      internalID: 1375786936356394339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alienBird_death_3
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 443
+        width: 157
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e202965f76c02b0800000000000000
+      internalID: -5617000331509486030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alienBird_death_4
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 449
+        width: 131
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68982de98c5a85ca0800000000000000
+      internalID: -6027885820158768762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alienBird_death_5
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 481
+        width: 84
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b6c7978e7b4f2f0800000000000000
+      internalID: -939924213115098365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alienBird_death_6
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 493
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ec44049b7a4bd80800000000000000
+      internalID: -8235773404464755186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alienBird_death_7
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 503
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc4753e79e560490800000000000000
+      internalID: -7780427299788731149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alienBird_northMove_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 242
+        width: 137
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a294eceef7e5f70800000000000000
+      internalID: 9177913754267495027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alienBird_northMove_2
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 236
+        width: 137
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dceeaa976153b58e0800000000000000
+      internalID: -1703709663382802739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alienBird_northMove_3
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 213
+        width: 137
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5a3f634b24fabb0800000000000000
+      internalID: -4922642525909178896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alienBird_northMove_4
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 213
+        width: 138
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b08a3ab355e50b10800000000000000
+      internalID: 1947214561677050035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e6dbdfaeb61a5ba40b16796b886ba9f6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

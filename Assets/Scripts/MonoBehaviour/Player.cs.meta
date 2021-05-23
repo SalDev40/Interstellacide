@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 293cd7c9a1e89371e98439f89e6b5d7d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Level2upgradedGun: {instanceID: 0}
+  - Level3upgradedGun: {instanceID: 0}
+  - weaponGunCase: {instanceID: 0}
+  - hitPoints: {instanceID: 0}
+  - starDustPoints: {instanceID: 0}
+  - enisExplosion: {fileID: 7571211895912242231, guid: 7fd80f45552b9504c81de019d54fcd20, type: 3}
+  - shield: {fileID: 8532963952480349197, guid: dc83e92e27f278b4f8e69ebdc777028f, type: 3}
+  - enes: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
